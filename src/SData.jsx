@@ -1,11 +1,3 @@
-
-
-
-
-// NETFLIX SERIES 
-
-
-
 const SData = [
 { 
   id :1,
@@ -81,6 +73,3 @@ link:"https://www.netflix.com/search?q=tv%20series&jbv=80199393",
 ];
 
 export default SData;
-
-
-// END HERE 
