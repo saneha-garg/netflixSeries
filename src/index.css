@@ -1,0 +1,224 @@
+/*
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: beige;
+}
+.heading{
+    color: crimson;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: bold;
+    text-shadow: 0px 2px 4px #ffe9c5 ;
+    margin: 70px 0px;
+    
+}
+.heading2{
+    color: blue;
+    text-align:left;
+    text-transform: capitalize;
+    font-weight: bold;
+    margin-left: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.elements{
+    color: purple;
+    text-align:left;
+    text-transform: capitalize;
+    margin-left: 60px;
+    font-size: medium;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.writer{
+    color: black;
+    text-align:left;
+    text-transform: capitalize;
+    margin-left: 1000px;
+}
+.pic{
+    margin-top: 70px;
+    font-size: medium;
+    color: deeppink;
+    font-weight: 500;
+    font-size:large;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.img-div{
+ display: flex;
+ justify-content: center;
+}
+.img-div img {
+    width: 300px;
+    height: 300px;
+}
+*/
+/*
+body {
+    background-color: #b4f2e1;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+div{
+    width: 100%;
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    margin-top: -30px;
+}
+
+h1{
+    padding: 20px 20px;
+    background-color: #ffe9c5;
+    color: #fa9191;
+    border-radius: 20px;
+}
+
+span{
+    color: #eb6383;
+}
+*/
+
+
+
+
+
+
+
+
+
+
+body{
+    background-image: linear-gradient(315deg, #2b0909 0%, #1f0606 74%);
+    background-size: 100%; 
+    
+}
+body{
+    margin-bottom: 150px;
+}
+h1{
+    color: red;
+    padding: 15px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 800;
+    background-image: linear-gradient(315deg, #f1ebeb 0%, #f8eaea 74%);
+     margin-top: 50px;
+    margin-bottom: 50px; 
+    font-size: 2.1rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.series{
+    display: flex;
+    align-content: center;
+}
+.series2{
+    display: flex;
+}
+.series3{
+    display: flex;
+}
+.col img{
+    width: 250px;
+   margin-left: 15px;
+   margin-right: 15px;
+    height: 250px;   
+    border-color: rgb(223, 220, 220);
+    box-sizing: content-box;
+    border-style:dashed;
+}
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+    margin-left: 14px;
+    margin-right: 14px;
+    justify-content: center;
+    
+    box-sizing: content-box;
+    
+}
+.card-title{
+    text-align: center;
+font-size: large;
+font-style: bold;
+color: aliceblue;
+margin-top: 0px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.card-text{
+text-align: center;
+font-size: larger;
+font-style: bold;
+font-weight: 700;
+margin-top: 0px;
+color: aliceblue;
+font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.card button{
+background-color:azure;
+ height: 35px;
+ margin-bottom: 30px;
+ border-radius: 3px;
+ font-size: medium;
+ border-style: double;
+ cursor: pointer;
+}
+
+
+
+
+/* forms */
+/*
+*{
+    box-sizing: border-box;
+    padding :0;
+    margin: 0;
+    background-color: beige;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+div{
+    width: 100%;
+    height: 100vh;
+    background: purple;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    color: white;
+    background :transparent;
+    text-shadow: 0 2px 2px black;
+}
+
+input {
+    width: 400px;
+    padding: 10px 20px;
+    border: none;
+    outline: none;
+    margin: 20px 0;
+    text-align: center;
+}
+
+button{
+    line-height: 24px;
+    padding: 0 20px;
+    background: plum;
+    color: black;
+    border: 2px solid aliceblue;
+    outline: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+    cursor: pointer;
+    height: 35px;
+    font-size: medium ;
+}
+*/
