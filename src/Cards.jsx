@@ -1,7 +1,3 @@
-
-
-// NETFLIX SERIES 
-
 import React from "react";
 import "./index.css";
 
@@ -28,6 +24,3 @@ function Card(props){
     );
   }
   export default Card;
-
-  // END HERE
-  
